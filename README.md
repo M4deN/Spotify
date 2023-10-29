@@ -1,5 +1,3 @@
-# README.md
-
 ## Spotify Website Clone
 
 Este repositório contém um clone do site da Spotify. O projeto inclui HTML, CSS e JavaScript para replicar a aparência e funcionalidade do site oficial da Spotify.
